@@ -43,6 +43,7 @@ namespace Primeiro {
             foreach (Funcionario obj in list) {
                 Console.WriteLine(obj.ToString());
             }
+            Console.WriteLine();
 
         }
     }
